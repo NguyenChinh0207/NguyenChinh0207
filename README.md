@@ -5,7 +5,7 @@
 - My fullname is Nguyen Thi Chinh
 - I am a fresher Java Developer
 ### Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenChinh0207&show_icons=true&theme=gruvbox)
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenChinh0207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
