@@ -1,6 +1,5 @@
-### Hi there 👋
-I am Chinh
-- Have a nice day!😄
+### Hi there, I am Chinh👋
+- I am Java developer
 <!--
 **NguyenChinh0207/NguyenChinh0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
